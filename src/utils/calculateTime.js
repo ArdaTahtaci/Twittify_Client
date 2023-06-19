@@ -31,14 +31,15 @@ export const joinedWhen = (time) => {
     return month + " " + year
 }
 
+
+
+
 export const postedWhen = (time) => {
     let date = moment(time).toArray()
     const month = moment(date).format("MMMM")
     const year = moment(date).format("YYYY")
 
     const result = date[3] + ":" + date[4] + " . " + month + " " + date[2] + ", " + year
-
-
 
     return result
 }
