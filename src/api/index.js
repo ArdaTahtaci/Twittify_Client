@@ -1,7 +1,7 @@
 import axios from "axios"
 
-const userApiEndPoint = "http://localhost:5000/users"
-const tweetApiEndPoint = "http://localhost:5000/tweets"
+const userApiEndPoint = "https://twittify-server.onrender.com/users"
+const tweetApiEndPoint = "https://twittify-server.onrender.com/tweets"
 
 const headerObject = (token) => {
     return {
