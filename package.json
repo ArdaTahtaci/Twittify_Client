@@ -60,6 +60,6 @@
   "author": "arda tahtaci",
   "license": "ISC",
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "versiyon-numarasi"
+    "@babel/plugin-proposal-private-property-in-object": "^7.0.0"
   }
 }
