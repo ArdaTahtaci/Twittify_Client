@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+This is my second full-stack project with MERN STACK.
+-
+Site is alive on this url --> https://twittify.onrender.com
+Unfortunately this web app is not mobile friendly. Please open with pc or an ipad like device.
+Server repo is here --> https://github.com/ArdaTahtaci/Twittify_Server
+-
+On this project I tried to create a social media web app almost same the Twitter as possible as I can.
+The UI design is almost same with real Twitter and also the concept.
+My goal was improve my React,nodejs,mongoose,expresjs skills and I can happily to say that I accomplished.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+--------------------------------------------------------------------------------------------------------------------------
 
-## Available Scripts
+Deatils about project: 
+-
+From here I'm gona try to explain how did I do this project on my own with no help but just the Internet. This explanation is for my job || internship applications (recruitment specialists).
 
-In the project directory, you can run:
+----------------------------------------
+I used react-router, redux, axios and bootstrap with some custom css for UI; on backend nodejs with exress and mongoose for mongodb to store tweets and users data. Both frontend and backend I tried to make file configurations properly. To be honest at first I haven't got a project plan. When I started to building, looked at the Twitter and tried to figure out how can I do this and this and this ... Of course there is no complicated algorithm, AI or any searchings; the tweets line up by time that they posted. It took approximately 120-150 hours. I should say that -esspecialy for react- My codes are not well readable and the reason is like I said before I haven't got any project plan so I wrote it spontaneously.
 
-### `npm start`
+---
+If I try to create exactly the same of this project it would be better code structure and readability and it would took shorter time like may be 40 - 50 hours.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Of course you can look at my code from this two repo's and ask me anything about it by sending an email me. Mail -> ardata123@gmail.com 
