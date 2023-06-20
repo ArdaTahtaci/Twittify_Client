@@ -4,6 +4,8 @@ Site is alive on this url --> https://twittify.onrender.com
 Unfortunately this web app is not mobile friendly. Please open with pc or an ipad like device.
 Server repo is here --> https://github.com/ArdaTahtaci/Twittify_Server
 -
+If you don't want to create any account you can inspect by using my account mail-> arda@gmail.com psswrd-> 12345678 (its fake just for the app)
+-
 On this project I tried to create a social media web app almost same the Twitter as possible as I can.
 The UI design is almost same with real Twitter and also the concept.
 My goal was improve my React,nodejs,mongoose,expresjs skills and I can happily to say that I accomplished.
