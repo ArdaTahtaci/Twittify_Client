@@ -59,5 +59,7 @@
   "main": "index.js",
   "author": "arda tahtaci",
   "license": "ISC",
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "versiyon-numarasi"
+  }
 }
