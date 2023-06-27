@@ -15,6 +15,9 @@ My goal was improve my React,nodejs,mongoose,expresjs skills and I can happily t
 
 --------------------------------------------------------------------------------------------------------------------------
 
+WhatsApp images are the screenshots of some parts of project
+-
+-------------------------------
 Deatils about project: 
 -
 From here I'm gona try to explain how did I do this project on my own with no help but just the Internet. This explanation is for my job || internship applications (recruitment specialists).
